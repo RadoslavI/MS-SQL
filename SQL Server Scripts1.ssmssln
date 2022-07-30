@@ -5,13 +5,16 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "1-DatabasesIntroduction\SQL Server Scripts1.ssmssqlproj", "{D09825BF-BE02-4CEE-AFC5-9274FB675C53}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CRUD", "CRUD\CRUD.ssmssqlproj", "{8C55E37B-4002-480B-B9DC-30FBF463B2DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D09825BF-BE02-4CEE-AFC5-9274FB675C53}.Default|Default.ActiveCfg = Default
-		{5787DCAA-0267-410A-8EB5-FD9221738AD5}.Default|Default.ActiveCfg = Default
+		{16CF00EF-1B55-421A-989B-1C7B4BA59DCD}.Default|Default.ActiveCfg = Default
+		{8C55E37B-4002-480B-B9DC-30FBF463B2DC}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
